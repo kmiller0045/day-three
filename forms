@@ -1,0 +1,26 @@
+<html>
+
+
+<head>
+</head>
+
+<body>
+    <h1>fORMS PAGE</h1>
+    <form>
+        <fieldset>
+
+        <label> First Name;
+            <input type="text" name "FirstName" id="firstName" /></label><br/>
+        <label>Last Name;
+            <input type-"text" name="lastName" id="lastName" /><label><br/>
+         <label>Get Marketing Junk?;;
+            <input type-"checking" name="opt in" checked id="opt in" /><label><br/> 
+            <input type="submit" value="sign me up!"/>
+        </fieldset\> 
+    </form>
+    
+   
+</body>
+
+</html>
+

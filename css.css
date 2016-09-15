@@ -1,0 +1,11 @@
+       .backgrounGray     {
+            border-radius: 10px;
+            background-color: lightgray;
+            padding: 10px;
+            color: darkgray
+            }
+        .tableColors    {
+            border-radius: 10px;
+            background-color: blue;
+            padding: 10px;
+            }

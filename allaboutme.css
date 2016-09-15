@@ -1,0 +1,60 @@
+
+
+    h1 {
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+    }
+    h2 {
+        font-family: 'Open Sans', sans-serif;
+    }
+    html {
+        background: lightgray;
+    }
+    nav {
+        position: fixed;
+        background-color: darkgray;
+        height: 70px;
+		size: 100%
+        }
+    nav ul {
+        
+    }
+    nav ul li  {
+        list-style-type: none;
+        width: 100px;
+        float: left;
+        text-align: center;
+		                  }
+    nav ul li a {
+        text-decoration: none;
+        color: white;
+        line-height: 50px;
+        display: block;
+            }
+    li a:hover {
+        background-color:pink;
+        }
+    ol li {
+        
+    }
+    table  {
+        border-block-start-color: black;
+    }
+    tr:nth-child(even)  {
+        background-color: blue;
+    }
+    tr:nth-child(odd)   {
+        background-color: red;
+    }
+    th {
+        background-color: darkgray;
+    }
+    .main  {
+        background-image:url(https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/1937322_102773069737473_6444482_n.jpg?oh=e03eb8fbf74807a72db3ff72d6dc017e&oe=5878A9B9);
+        background-repeat:no-repeat;
+		background-size: 450px;
+        color: white;   
+        
+    }
+
+

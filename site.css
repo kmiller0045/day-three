@@ -1,0 +1,19 @@
+body //called the selector{*/called style declaration*/
+         margin: 20 px;
+
+      }
+      .yellowMed {
+          color:yellow; //called a value
+          font-size: 14 pt;
+      }
+      .yellowLg {
+          color:yellow;
+          font-size: 20 pt;
+      }
+      .almostBaconBrown {
+          color: #c87f32;
+          font-size: 20 pt;
+      }
+      .corporateBlue {
+          background-color: blue;
+      }
